@@ -7,14 +7,14 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="dc0f80f4-9bee-4297-8ac4-e48ec9e90d46"
+    Name="c7aabb19-0600-47f0-96ea-adfcbb322628"
     Publisher="CN=chuxiaoyuan"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="dc0f80f4-9bee-4297-8ac4-e48ec9e90d46" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="c7aabb19-0600-47f0-96ea-adfcbb322628" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
-    <DisplayName>SimpleFinanceUWP</DisplayName>
+    <DisplayName>SimpleFinance.App</DisplayName>
     <PublisherDisplayName>chuxiaoyuan</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -30,12 +30,12 @@
   <Applications>
     <Application Id="App"
       Executable="$targetnametoken$.exe"
-      EntryPoint="SimpleFinanceUWP.App">
+      EntryPoint="SimpleFinance.App.App">
       <uap:VisualElements
-        DisplayName="SimpleFinanceUWP"
+        DisplayName="SimpleFinance.App"
         Square150x150Logo="Assets\Square150x150Logo.png"
         Square44x44Logo="Assets\Square44x44Logo.png"
-        Description="SimpleFinanceUWP"
+        Description="SimpleFinance.App"
         BackgroundColor="transparent">
         <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png"/>
         <uap:SplashScreen Image="Assets\SplashScreen.png" />

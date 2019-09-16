@@ -1,7 +1,7 @@
 ﻿<Application
-    x:Class="SimpleFinanceUWP.App"
+    x:Class="SimpleFinance.App.App"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="using:SimpleFinanceUWP">
+    xmlns:local="using:SimpleFinance.App">
 
 </Application>

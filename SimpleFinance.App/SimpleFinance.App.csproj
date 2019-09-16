@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{55204D9F-9AAA-4365-B375-F8913676CFE4}</ProjectGuid>
+    <ProjectGuid>{26787673-0B47-4D68-9FD0-E29DDD417B0F}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SimpleFinanceUWP</RootNamespace>
-    <AssemblyName>SimpleFinanceUWP</AssemblyName>
+    <RootNamespace>SimpleFinance.App</RootNamespace>
+    <AssemblyName>SimpleFinance.App</AssemblyName>
     <DefaultLanguage>zh-CN</DefaultLanguage>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetPlatformVersion Condition=" '$(TargetPlatformVersion)' == '' ">10.0.18362.0</TargetPlatformVersion>

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SimpleFinance.Properties
+namespace SimpleFinance.WPF.Properties
 {
 
 

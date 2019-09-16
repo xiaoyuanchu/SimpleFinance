@@ -1,7 +1,7 @@
-﻿<Application x:Class="SimpleFinance.App"
+﻿<Application x:Class="SimpleFinance.WPF.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:SimpleFinance"
+             xmlns:local="clr-namespace:SimpleFinance.WPF"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          
